@@ -1,2 +1,4 @@
 Hi, I'm Leah, a 4th-year BSIT student.
 Course: BSIT, Assumption College of Davao
+Hobbies: coding, gaming
+Github: github.com/cabbie-rawr
